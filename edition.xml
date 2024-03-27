@@ -200,7 +200,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<pb n="5v" facs="data/images/fol_5v.png" />
+			<pb n="5v" facs="fol_5v.jpg" />
 			<div type="sermon">
 				<!-- NOTE: (ad) VIII Kalendas = 25 December on the Julian calendar, which in Aelfric's time would have corresponded to Dec 30/31 on the Gregorian calendar but today corresponds to Jan 7. -->
 				<head style="text-align: center; font-variant: smallcaps">
@@ -405,7 +405,7 @@
 						<expan>and</expan>
 					</choice></w>
 					<w>to</w> <w>nahte</w>
-			<pb n="6r" facs="data/images/fol_6r.png" />
+			<pb n="6r" facs="fol_6r.jpg" />
 				<lb n="32" /><w>gewurðaþ</w> · <w>Oðer</w> <w>þing</w> <w>is</w> <w>ece</w> · <w>swa</w>
 					<w><choice>
 						<abbr>ꝥ</abbr>
@@ -598,7 +598,7 @@
 						<expan>and</expan>
 					</choice></w>
 					<w>hi</w> <w>ealle</w> <w>swaþæh</w> <w>alotene</w> <w>beoð</w>
-			<pb n="6v" facs="data/images/fol_6v.png" />
+			<pb n="6v" facs="fol_6v.jpg" />
 				<lb n="64" /><w>to</w> <w>þære</w> <w>eorðanweard</w> ·
 					<w><choice>
 						<abbr>⁊</abbr>
@@ -784,7 +784,7 @@
 					</choice></w>
 					<w>siþþan</w> <w>his</w> <w>agene</w>
 				<lb n="95" /><w>sawle</w> · <w>We</w> <w>habbað</w> <w>eow</w> <w>oft</w> <w>gesæd</w> <w>eowerne</w> <w>geleafan</w>
-			<pb n="7r" facs="data/images/fol_7r.png" />
+			<pb n="7r" facs="fol_7r.jpg" />
 				<lb n="96" /><w>be</w> <w>þære</w> <w>halgan</w> <w>ðrẏnnẏsse</w> · <w>Nu</w> <w>wẏlle</w> <w>we</w> <w>eow</w>
 					<w><choice>
 						<abbr>sū</abbr>
@@ -974,7 +974,7 @@
 						<abbr>⁊</abbr>
 						<expan>and</expan>
 					</choice></w> <w>to</w> <w>stẏrenne</w> <w>hire</w> <w>agen</w> <w>lif</w> ·
-			<pb n="7v" facs="data/images/fol_7v.png" />
+			<pb n="7v" facs="fol_7v.jpg" />
 				<lb n="128" /><w><choice>
 						<abbr>⁊</abbr>
 						<expan>and</expan>
@@ -1202,7 +1202,7 @@
 						<expan>oðþæt</expan>
 					</choice></w>
 					<w>þæt</w> <w>geþoht</w> <w>gewẏte</w> ·
-			<pb n="8r" facs="data/images/fol_8r.png" />
+			<pb n="8r" facs="fol_8r.jpg" />
 				<lb n="160" /><w><choice>
 						<abbr>⁊</abbr>
 						<expan>and</expan>
@@ -1439,7 +1439,7 @@
 						<expan>þæt</expan>
 					</choice></w>
 					<w>is</w> <w>ealle</w> <w>oferdone</w>
-			<pb n="8v" facs="data/images/fol_8v.png" />
+			<pb n="8v" facs="fol_8v.jpg" />
 				<lb n="192" /><w>þing</w> <w>dæriað</w> · <w>Witodlice</w> <w>gemetgung</w> <w>is</w> <w>eallra</w> <w>mæge
 				<lb n="193" />na</w> <w>modor</w> · <w>Þæt</w> <w>feorðe</w> <w>mægen</w> <w>is</w> · <foreign xml:lang="la">Fortitudo</foreign> ·
 					<w><choice>
@@ -1650,7 +1650,7 @@
 					</choice></w>
 					<w>heo</w> <w>hwæt</w> <w>wẏle</w> · <w>Ac</w> <w>swaþeah</w> <w>ealle</w>
 				<lb n="223" /><w>þas</w> <w>naman</w> <w>sẏndon</w> <w>sawul</w> · <w>ælc</w> <w>sawul</w> <w>is</w> <w>gast</w> · <w>ac</w>
-			<pb n="9r" facs="data/images/fol_9r.png" />
+			<pb n="9r" facs="fol_9r.jpg" />
 				<lb n="224" /><w>swaþeah</w> <w>nis</w> <w>na</w> <w>ælc</w> <w>gast</w> <w>sawul</w> · <w>Se</w> <w>apostol</w> <w>paulus</w>
 				<lb n="225" /><w>totwæmde</w> <w>þæs</w> <w>gastes</w> <w>naman</w> ·
 					<w><choice>
@@ -1802,7 +1802,7 @@
 						<expan>and</expan>
 					</choice></w>
 					<w>in</w> <w>ateoð</w> <w>oððe</w> <w>ure</w> <w>sawul</w>
-			<pb n="9v" facs="data/images/fol_9v.png" />
+			<pb n="9v" facs="fol_9v.jpg" />
 				<lb n="256" /><w>ac</w> <w>is</w> <w>seo</w> <w>lẏft</w> <w>þe</w> <w>ealle</w> <w>lichamlice</w> <w>þing</w> <w>on</w> <w>lẏbbað</w> · <w>butan</w>
 				<lb n="257" /><w>fixum</w>
 					<w><choice>
